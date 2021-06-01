@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qy1345
-- 👀 I’m interested in dev
-- 🌱 I’m currently learning dev
-- 💞️ I’m looking to collaborate on dev
+- 👀 I’m interested in code
+- 🌱 I’m currently learning code
+- 💞️ I’m looking to collaborate on code
 - 📫 How to reach me 1326508392@qq.com
 
 <!---
